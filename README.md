@@ -1,8 +1,4 @@
 # cashier
-# caesar
-
-
-<h1>cashier</h1>
 <h3>#This program basically converts your change using greedy algorithm</h3>
 
 <li> #C</li>
